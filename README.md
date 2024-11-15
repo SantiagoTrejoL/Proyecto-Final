@@ -12,12 +12,6 @@ El proyecto está dividido en las siguientes secciones:
 
 Además, la página tiene una sección para **sugerir recetas**, donde los usuarios pueden enviar sus ideas de platillos para ser compartidos en el sitio.
 
-## Estructura de Carpetas
-
-El proyecto sigue la siguiente estructura de carpetas:
-
-Proyecto_Final/ │ ├── index.html # Página de inicio ├── sugerir.html # Formulario para sugerir recetas ├── estilos.css # Estilos generales ├── receta.css # Estilos específicos para las recetas │ ├── MX/ # Recetas de Comida Mexicana │ ├── mexicanas.html │ ├── chilaquiles_verdes.html │ └── tacos_chorizo.html │ ├── IT/ # Recetas de Comida Italiana │ ├── italianas.html │ ├── pizza_margarina.html │ └── pasta_alfredo.html │ └── PO/ # Recetas de Postres ├── postres.html └── pay_limon.html
-
 
 ## Funcionalidades
 
